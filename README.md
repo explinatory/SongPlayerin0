@@ -1,6 +1,6 @@
 Songplayerino applikatsioon.
 
-<a href="https://imgflip.com/gif/2o0y45"><img src="https://i.imgflip.com/2o0y45.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2o0yiy"><img src="https://i.imgflip.com/2o0yiy.gif" title="made at imgflip.com"/></a>
 
 # Sisukord
 * Tutvustus
