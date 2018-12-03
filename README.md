@@ -37,7 +37,7 @@ SongPlayerino on mõeldud kasutajatele, kes soovivad kuulata muusika kiire nupu 
 
 Toimib ta nii, et kui kasutaja äppi tööle paneb, siis küsib kasutaja käest luba sinu meedia failide ligi, nagu alltoodud pildil
 
-![PREMISSION PILT](https://puu.sh/yv5Rt/fcbd64cd49.png)
+![PREMISSION PILT](https://puu.sh/CbDrC/9c72d9fe92.png)
 
 Äppil on vaja luba sinu meedia failidele, sest ainult siis saab ta mängida sulle sinu muusika faile. Kui luba ei anta, ei kuva äppis ühtegi meedia faili ning üldiselt äpp siis ei tööta. Kui anda luba, siis kuvab äpp ette kõik meedia failid, mis ta on sinu telefonist leidnud. Tuleb meelest pidada, et ta võtab ka duplikaadid, kui telefonil neid on.
 
