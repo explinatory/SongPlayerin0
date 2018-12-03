@@ -1,4 +1,4 @@
-Tere tulemast SongPlayerino vikipeedia lehele, mis on üks Androidi app.
+Songplayerino applikatsioon.
 
 # Sisukord
 * Tutvustus
